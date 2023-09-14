@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache", "Cache\Cache.csproj", "{DF55E7E8-44C4-4BC4-B3C5-D0BDE974F509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublisherAndSubscriber", "PublisherAndSubscriber\PublisherAndSubscriber.csproj", "{64835372-6BCD-4495-A83A-610290811E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadBlocking", "ThreadBlocking\ThreadBlocking.csproj", "{CF93737D-144F-4D4A-B283-94B0A6C574DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF55E7E8-44C4-4BC4-B3C5-D0BDE974F509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF55E7E8-44C4-4BC4-B3C5-D0BDE974F509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF55E7E8-44C4-4BC4-B3C5-D0BDE974F509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF55E7E8-44C4-4BC4-B3C5-D0BDE974F509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64835372-6BCD-4495-A83A-610290811E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64835372-6BCD-4495-A83A-610290811E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64835372-6BCD-4495-A83A-610290811E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64835372-6BCD-4495-A83A-610290811E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF93737D-144F-4D4A-B283-94B0A6C574DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF93737D-144F-4D4A-B283-94B0A6C574DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF93737D-144F-4D4A-B283-94B0A6C574DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF93737D-144F-4D4A-B283-94B0A6C574DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
